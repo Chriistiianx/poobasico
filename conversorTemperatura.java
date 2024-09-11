@@ -1,5 +1,5 @@
 public class conversorTemperatura {
-    // No se pueden poner literales | Usar constantes
+
     public final static int DESPLAZAR = 32;
 
     public static int celsiusaFahrenheit(int celsius){
